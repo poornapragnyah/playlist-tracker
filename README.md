@@ -40,4 +40,4 @@ Manages the list of `Player` objects, providing functionalities to manipulate an
 To compile the program, use a C++ compiler like `g++`:
 
 ```bash
-g++ -o playlist_manager playlist_manager.cpp
+g++ -o playlist_manager main.cpp
